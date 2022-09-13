@@ -1,2 +1,2 @@
-# ViaCEP-API
-Consumindo API via CEP, e preenchendo formulário 
+# js-api
+Consumindo e tratando dados de uma API
